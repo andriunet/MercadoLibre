@@ -20,8 +20,12 @@ $ abrir MercadoLibre.xcworkspace
 
 ### Librerias de terceros 📋
 ```
-- Alamofire  - Es una biblioteca especifica para Swift, que nos permite realizar peticiones a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
-- SDWebImage - Se
+- Alamofire
+  Es una biblioteca especifica para Swift, que nos permite realizar peticiones 
+  a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
+  
+- SDWebImage - 
+  Manejo de descargar de las imagenes
 ```
 
 ## URL 📖
