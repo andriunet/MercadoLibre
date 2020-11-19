@@ -25,7 +25,8 @@ $ abrir MercadoLibre.xcworkspace
   a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
   
 - SDWebImage - 
-  Manejo de descargar de las imagenes
+  Manejo de descargar de las imagenes mostrando la actividad
+  y almancenando las imagenes en cache.
 ```
 
 ## URL 📖
