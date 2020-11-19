@@ -4,7 +4,7 @@ Mercado libre API for product search.
 
 The project has a clean coding and minimizing lines of code thanks to the implementation of a third-party library.
 
-### Proyecto 🔧
+### Proyect 🔧
 ```
 Architecture MVVM.
 Unit tests to Mercado libre API and when deserializing the received JSON.
@@ -20,13 +20,13 @@ Error handling.
 </tbody>
 </table>
 
-### Abrir 🔧
+### How to open 🔧
 
 ```
 $ abrir MercadoLibre.xcworkspace
 ```
 
-### Librerias de terceros 📋
+### Third-party library 📋
 ```
 - Alamofire
   Is a Swift-based HTTP networking library for iOS and macOS. 
