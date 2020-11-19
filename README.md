@@ -1,21 +1,30 @@
 # MercadoLibre
 
+API de mercado libre para busqueda de productos.
 
+La aplicacion se creo usando el menor codigo posible con excelentes resultados.
 
-
-### Instalación 🔧
-
-Instalar dependencias
+### Proyecto 🔧
+```
+Arquitectura MVVM.
+Pruebas unitarias al API de mercadolibre y al deserializar el JSON recibido.
+Manejo de errores.
+```
+### Abrir 🔧
 
 ```
-$ pod install
 $ abrir MercadoLibre.xcworkspace
 ```
 
 ### Librerias de terceros 📋
 ```
 - Alamofire
+  Es una biblioteca especifica para Swift, que nos permite realizar peticiones 
+  a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
+  
 - SDWebImage
+  Manejo de descargar de las imagenes mostrando la actividad
+  y almancenando las imagenes en cache.
 ```
 
 ## URL 📖
