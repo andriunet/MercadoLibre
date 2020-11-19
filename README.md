@@ -3,12 +3,9 @@
 
 
 
-### Instalación 🔧
-
-Instalar dependencias
+### Abrir 🔧
 
 ```
-$ pod install
 $ abrir MercadoLibre.xcworkspace
 ```
 
