@@ -2,7 +2,7 @@
 
 API de mercado libre para busqueda de productos.
 
-La aplicacion se creo usando el menor codigo posible con excelentes resultados.
+El proyecto posee una codificación limpia y minimizando las líneas de código gracias a la implementación de librería de terceros.
 
 ### Proyecto 🔧
 ```
