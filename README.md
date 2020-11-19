@@ -5,11 +5,11 @@ API de mercado libre para busqueda de productos.
 La aplicacion se creo usando el menor codigo posible con excelentes resultados.
 
 ### Proyecto 🔧
-
+```
 Arquitectura MVVM.
 Pruebas unitarias al API de mercadolibre y al deserializar el JSON recibido.
 Manejo de errores.
-
+```
 ### Abrir 🔧
 
 ```
