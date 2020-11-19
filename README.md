@@ -7,10 +7,8 @@ La aplicacion se creo usando el menor codigo posible con excelentes resultados.
 ### Proyecto 🔧
 
 Arquitectura MVVM.
-Alamofire se usa para el llamado del JSON
 Pruebas unitarias al API de mercadolibre y al deserializar el JSON recibido.
-Manejo de errores 
-
+Manejo de errores.
 
 ### Abrir 🔧
 
@@ -24,7 +22,7 @@ $ abrir MercadoLibre.xcworkspace
   Es una biblioteca especifica para Swift, que nos permite realizar peticiones 
   a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
   
-- SDWebImage - 
+- SDWebImage
   Manejo de descargar de las imagenes mostrando la actividad
   y almancenando las imagenes en cache.
 ```
