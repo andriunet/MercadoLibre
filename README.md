@@ -1,14 +1,14 @@
 # MercadoLibre
 
-API de mercado libre para busqueda de productos.
+Mercado libre API for product search.
 
-El proyecto posee una codificación limpia y minimizando las líneas de código gracias a la implementación de librería de terceros.
+The project has a clean coding and minimizing lines of code thanks to the implementation of a third-party library.
 
 ### Proyecto 🔧
 ```
-Arquitectura MVVM.
-Pruebas unitarias al API de mercadolibre y al deserializar el JSON recibido.
-Manejo de errores.
+Architecture MVVM.
+Unit tests to Mercado libre API and when deserializing the received JSON.
+Error handling.
 ```
 
 <table>
@@ -29,12 +29,12 @@ $ abrir MercadoLibre.xcworkspace
 ### Librerias de terceros 📋
 ```
 - Alamofire
-  Es una biblioteca especifica para Swift, que nos permite realizar peticiones 
-  a un servidor web cumpliendo y explotando todas las capacidades de HTTP.
+  Is a Swift-based HTTP networking library for iOS and macOS. 
+  It provides an elegant interface on top of Apple's Foundation networking 
+  stack that simplifies a number of common networking tasks.
   
 - SDWebImage
-  Manejo de descargar de las imagenes mostrando la actividad
-  y almancenando las imagenes en cache.
+  Asynchronous image downloader with cache support.
 ```
 
 ## URL 📖
