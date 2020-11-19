@@ -1,0 +1,6 @@
+module Pods_MercadoLibre {
+  umbrella header "Pods-MercadoLibre-umbrella.h"
+
+  export *
+  module * { export * }
+}

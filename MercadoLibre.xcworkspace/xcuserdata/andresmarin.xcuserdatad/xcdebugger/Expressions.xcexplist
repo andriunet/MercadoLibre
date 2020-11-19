@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in MercadoLibreTests.testBusqueda():MercadoLibreTests.swift">
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MercadoLibreTests.testBusquedaSearchViewController():MercadoLibreTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "items!.query">
+            </PersistentString>
+            <PersistentString
+               value = "items!.results.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MercadoLibreTests.testListaItems():MercadoLibreTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[&quot;results&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "results.count">
+            </PersistentString>
+            <PersistentString
+               value = "results[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SearchViewController.buscarItems(busqueda:):SearchViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.items">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MercadoLibreTests.testBusquedaAPI():MercadoLibreTests.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "result[&quot;results&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
