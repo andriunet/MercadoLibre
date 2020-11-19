@@ -22,8 +22,8 @@ class DetailViewController: UIViewController {
         
         if let result = results {
             lblTitle.text = result.title
-            lblPrice.text = "\(result.price)"
-            lblCondition.text = result.condition
+            lblPrice.text = "Precio: \(result.price.formatoMoneda())"
+            lblCondition.text = "Estado: \(result.condition)"
             
             imagenItem.sd_imageIndicator = SDWebImageActivityIndicator.gray
             imagenItem.sd_setImage(with: URL(string: result.thumbnail), placeholderImage: UIImage(named: "placeholder"), options: [.progressiveLoad] )

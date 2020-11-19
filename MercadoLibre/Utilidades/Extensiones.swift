@@ -62,3 +62,14 @@ extension UISearchBar {
         }
     }
 }
+
+extension Double {
+    
+   func formatoMoneda() -> String{
+       let numberFormatter = NumberFormatter()
+       numberFormatter.numberStyle = .currency
+       numberFormatter.locale = Locale(identifier: "en_US")
+       return numberFormatter.string(from: NSNumber(value: self)) ?? ""
+   }
+    
+}
