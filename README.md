@@ -1,6 +1,6 @@
 # MercadoLibre
 
-Mercado libre API for product search.
+Mercado libre APP for product search.
 
 The project has a clean coding and minimizing lines of code thanks to the implementation of a third-party library.
 
@@ -26,7 +26,7 @@ Error handling.
 $ abrir MercadoLibre.xcworkspace
 ```
 
-### Third-party library 📋
+### Third-party libraries 📋
 ```
 - Alamofire
   Is a Swift-based HTTP networking library for iOS and macOS. 
