@@ -10,6 +10,16 @@ Arquitectura MVVM.
 Pruebas unitarias al API de mercadolibre y al deserializar el JSON recibido.
 Manejo de errores.
 ```
+
+<table>
+<tbody>
+<tr>
+<td><img src="https://github.com/andriunet/MercadoLibre/blob/main/Screen%20Shot1.png"/></td>
+<td><img src="https://github.com/andriunet/MercadoLibre/blob/main/Screen%20Shot2.png"/></td>
+</tr>
+</tbody>
+</table>
+
 ### Abrir 🔧
 
 ```
