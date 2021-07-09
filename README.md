@@ -1,6 +1,4 @@
-# MercadoLibre
-
-Mercado libre APP for product search.
+APP for product search.
 
 The project has a clean coding and minimizing lines of code thanks to the implementation of a third-party library.
 
